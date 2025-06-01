@@ -14,11 +14,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs" />
+  <img src="https://avatars.mds.yandex.net/i?id=c2a3308ffc4f87382c8667f3a6d5380ef76c57ab-10654381-images-thumbs&n=13" height="30" alt="nestjs" >
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-plain.svg" height="30" alt="strapi" />
+  <img src="https://avatars.mds.yandex.net/i?id=99a03fd16ff7dfe5a496cc42a329701cf76d7cd1-4897019-images-thumbs&n=13" height="30" alt="strapi" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
   <img width="12" />
@@ -29,10 +29,10 @@
 
 ### 🛠 Примеры проектов (работал в веб-студии)
 
-- 🔗 [Домик из дерева](https://domik-iz-dereva.ru/) — сайт компании по строительству деревянных домов  
-- 🔗 [Sabiylar](https://sabiylar.com/) — каталог товаров + кастомная админка  
+- 🔗 [Домик из дерева](https://domik-iz-dereva.ru/) — сайт компании по строительству бань  
+- 🔗 [Sabiylar](https://sabiylar.com/) — корпоративный сайт с расписанием для десткого сада  
 - 🔗 [Бани Султан](https://bani-sultan.ru/) — лендинг с возможностью онлайн-заказа  
-- 🔗 [Maksat](https://maksat.devmarknew.ru/) — корпоративный сайт с WordPress ACF  
+- 🔗 [Maksat](https://maksat.devmarknew.ru/) — корпоративный сайт с WordPress ACF ajax и многим другим 
 - …и многие другие проекты, как с нуля, так и на поддержке
 
 ---
