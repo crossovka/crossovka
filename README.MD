@@ -10,7 +10,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/3a5d46a6e5f26431cb548e367962c81c24a65ac56a22a9c68b4efc71443d5b2b/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3737392f3132362f706e672d7472616e73706172656e742d7068702d6c61726176656c2d636f6d70757465722d69636f6e732d6170706c69636174696f6e2d70726f6772616d6d696e672d696e746572666163652d7a61626269782d7068702d6c6f676f2d746578742d6c6f676f2d70726f6772616d6d696e672d6c616e67756167652e706e67" height="30" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img width="12" />
@@ -44,7 +44,7 @@
 - 🔗 <a href="https://domvrayu.ru/" target="_blank">Соборная мечеть</a> — сайт для пожертвований
 - 🔗 <a href="https://emilstroit.ru/" target="_blank">Эмиль строит</a> — сайт строительной компании  
 - 🔗 <a href="https://www.figma.com/design/vufepAZ2lF9RzmXmNeBnwD/%D0%9C%D0%BE%D1%8F-%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C--Copy-?node-id=174-2687&p=f&t=2Imx7pWJN5CKqQ7A-0" target="_blank">Моя прибыль</a> — сайт-воронка  
-- 🔗 <a href=https://три-клопа.рф/"" target="_blank">Три клопа</a> — Next.js + Strapi сайт дезинсектора
+- 🔗 <a href="https://три-клопа.рф/" target="_blank">Три клопа</a> — Next.js + Strapi сайт дезинсектора
 - …и многие другие проекты, как с нуля, так и на поддержке. также можно посмотреть примеры моих работ в закрепленных репозиториях или спросить у меня
 
 ---
