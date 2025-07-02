@@ -10,7 +10,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
   <img width="12" />
-  <img src="https://avatars.mds.yandex.net/i?id=c6dd4d73bb45386ebc2c91c384ef69cd_l-6974550-images-thumbs&n=13" height="30" alt="typescript" />
+  <img src="https://camo.githubusercontent.com/3a5d46a6e5f26431cb548e367962c81c24a65ac56a22a9c68b4efc71443d5b2b/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3737392f3132362f706e672d7472616e73706172656e742d7068702d6c61726176656c2d636f6d70757465722d69636f6e732d6170706c69636174696f6e2d70726f6772616d6d696e672d696e746572666163652d7a61626269782d7068702d6c6f676f2d746578742d6c6f676f2d70726f6772616d6d696e672d6c616e67756167652e706e67" height="30" alt="typescript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img width="12" />
