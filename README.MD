@@ -23,23 +23,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgres" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="scss" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="scss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack" />
 </div>
 
 ---
 
 ### 🛠 Примеры проектов (работал в веб-студии)
 
-- 🔗 [Домик из дерева](https://domik-iz-dereva.ru/) — сайт компании по строительству бань  
-- 🔗 [Sabiylar](https://sabiylar.com/) — корпоративный сайт с расписанием для десткого сада  
-- 🔗 [Бани Султан](https://bani-sultan.ru/) — лендинг с возможностью онлайн-заказа  
-- 🔗 [Maksat](https://maksat.devmarknew.ru/) — корпоративный сайт с WordPress ACF ajax и многим другим
-- 🔗 [Соборная мечеть](https://три-клопа.рф/) —  Сайт для пожертвований на строительство мечети 
-- 🔗 [Эмиль строит](https://emilstroit.ru/) — Сайт строительной компании
-- 🔗 [Моя прибыль](https://www.figma.com/design/vufepAZ2lF9RzmXmNeBnwD/%D0%9C%D0%BE%D1%8F-%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C--Copy-?node-id=174-2687&p=f&t=2Imx7pWJN5CKqQ7A-0) — Сайт воронка для компании по финансам
-- 🔗 [Три клопа](https://domvrayu.ru/) — next js strapi сайт дезинсектора с блогом
+- 🔗 [Домик из дерева](https://domik-iz-dereva.ru/){:target="_blank"} — сайт компании по строительству бань  
+- 🔗 [Sabiylar](https://sabiylar.com/){:target="_blank"} — корпоративный сайт с расписанием для десткого сада  
+- 🔗 [Бани Султан](https://bani-sultan.ru/){:target="_blank"} — лендинг с возможностью онлайн-заказа  
+- 🔗 [Maksat](https://maksat.devmarknew.ru/){:target="_blank"} — корпоративный сайт с WordPress ACF ajax и многим другим
+- 🔗 [Соборная мечеть](https://три-клопа.рф/){:target="_blank"} —  Сайт для пожертвований на строительство мечети 
+- 🔗 [Эмиль строит](https://emilstroit.ru/){:target="_blank"} — Сайт строительной компании
+- 🔗 [Моя прибыль](https://www.figma.com/design/vufepAZ2lF9RzmXmNeBnwD/%D0%9C%D0%BE%D1%8F-%D0%9F%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C--Copy-?node-id=174-2687&p=f&t=2Imx7pWJN5CKqQ7A-0){:target="_blank"} — Сайт воронка для компании по финансам
+- 🔗 [Три клопа](https://domvrayu.ru/){:target="_blank"} — next js strapi сайт дезинсектора с блогом
 - …и многие другие проекты, как с нуля, так и на поддержке. также можно посмотреть примеры моих работ в закрепленных репозиториях и не только
 
 ---
