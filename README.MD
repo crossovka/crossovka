@@ -10,6 +10,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
   <img width="12" />
+  <img src="https://avatars.mds.yandex.net/i?id=c6dd4d73bb45386ebc2c91c384ef69cd_l-6974550-images-thumbs&n=13" height="30" alt="typescript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
