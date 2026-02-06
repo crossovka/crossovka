@@ -86,11 +86,4 @@
 - 🥇 Первое место в робототехническом конкурсе инженериада УГМК
 - 🥇 Участие в проектной школе Технолидер УГМК
   
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=crossovka&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats-git-main.vercel.app/api/top-langs/?username=crossovka&layout=compact&theme=radical" height="150" />
-</p> 
+--- 
